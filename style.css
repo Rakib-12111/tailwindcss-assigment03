@@ -12,6 +12,7 @@
     
     .background{
         @apply bg-[url('/images/bg.png')]
+        bg-center bg-no-repeat
         
     }
     .hitand{
