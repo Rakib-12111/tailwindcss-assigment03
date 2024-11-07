@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities{
+    .rakib{
+        @apply flex flex-col items-center;
+    }
+    .num{
+        @apply text-[#00FF84] font-bold
+    }
+        
+    
+}
