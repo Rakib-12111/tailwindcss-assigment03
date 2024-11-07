@@ -9,6 +9,16 @@
     .num{
         @apply text-[#00FF84] font-bold
     }
+    
+    .background{
+        @apply bg-[url('/images/bg.png')]
+        
+    }
+    .hitand{
+        @apply w-full h-[550px]
+    }
         
     
 }
+
+
